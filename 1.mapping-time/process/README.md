@@ -20,6 +20,7 @@ The Line Clock uses compound logic. The black indicator is a hour hand that is j
 ![illustrative images](./Sketch1_calendar_time.jpg)
 ##### Variables Used of Season: Color, Position
 ##### Variables Used of Month: Position
+Twelve loops are used to present twelve months. I classify months into four seasons that March to May belong to spring, June to August belong to Summer and so on.
 
 #### Sketch 02: Moon & Day-of-week
 ![illustrative images](./Sketch2_calendar_time.jpg)
