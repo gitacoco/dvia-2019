@@ -3,7 +3,7 @@
 ![illustrative images](./Sketch_wall_clock.jpg)
 #### Sketch 01: Bar Clock
 ##### Variables Used: Position, Size
-In this Bar Clock, the three bars that are from thickest to thinnest respectively stand for the hour hand, minute hand and second hand.
+In this Bar Clock, the three bars that are from thickest to thinnest respectively stand for the hour hand, minute hand and second hand. They move from left to right at their own speed.
 
 #### Sketch 02: Pie Clock
 ##### Variables Used: Value, Size
