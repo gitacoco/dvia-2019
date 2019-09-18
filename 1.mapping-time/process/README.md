@@ -6,3 +6,6 @@
 #### Sketch 02: Line Clock
 ### Right Twice a Day: Map Calendar Time
 ![illustrative images](./Sketch_calendar_time.jpg)
+#### Sketch 01
+#### Sketch 02
+#### Sketch 02
