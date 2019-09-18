@@ -18,8 +18,8 @@ The Line Clock uses compound logic. The black indicator is a hour hand that is j
 
 #### Sketch 01: Season & Month
 ![illustrative images](./Sketch1_calendar_time.jpg)
-##### Variables Used of Season: Color, Position
-##### Variables Used of Month: Position
+**Variables Used of Season: Color, Position**
+**Variables Used of Month: Position**
 
 #### Sketch 02: Moon & Day-of-week
 ![illustrative images](./Sketch2_calendar_time.jpg)
