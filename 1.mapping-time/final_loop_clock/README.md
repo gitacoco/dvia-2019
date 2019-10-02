@@ -10,7 +10,7 @@ Based on these two designs, I introduce one more variable: Meridiem，which has 
 Regarding this design, I was going to map Daytime and Nighttime in the beginning, but this is a dynamic variable，which means it is hard to quantify，and I could not access such attribute via the clock function. So I finally divided one day into two parts straightforwardly: AM and PM.
 
 Variables used and encoded:  
-1)the clock section: Size & Value  
-4)Meridiem → Transparency  
-5)Month → Position  
-6)Season → Color  
+1)the clock section → Size & Value  
+2)Meridiem → Transparency  
+3)Month → Position  
+4)Season → Color  
