@@ -36,7 +36,7 @@ Twelve loops are used to present twelve months. These loops could be seen as con
 ### Right Twice a Day: Hybrid Clock
 
 #### Sketch 01: Season/Month/Meridiem & Hour/Minute/Second
-![illustrative images](./Hybrid_Sketch1.jpg)
+Please refer to the Final folder.
 
 #### Sketch 02: Moon/Month/Weekday & Hour/Minute/Second
 ![illustrative images](./Hybrid_Sketch2.jpg)
