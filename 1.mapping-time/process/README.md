@@ -33,7 +33,3 @@ Twelve loops are used to present twelve months. These loops could be seen as con
 ##### Variables Used of Month: Orientation, Value
 ##### Variables Used of Day-of-week: Size, Value
 
-### Right Twice a Day: Hybrid Clock
-
-#### Sketch 01: Season/Month/Meridiem & Hours/Minutes/Seconds
-![illustrative images](./Hybrid_Sketch1.jpg)
