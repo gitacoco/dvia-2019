@@ -1,13 +1,8 @@
 ## Process
-
-Description of the contents of this folder, a prose description of your ideas for how to represent
-the nuclear testing time series, and links to external data sources you'll be incorporating into
-the project.
-
 ### A Thousand Suns: Mapping Quantities, Categories, and Summarized Data
 #### 01: Chart of Nuclear Testing Illustrating Variables of Year, Country, Testing Frequency and Location
 ##### Variables Used: Position, Size
-![illustrative images](./Solution1_ Timelines.jpg)
+![illustrative images](./Solution1_Timelines.jpg)
 In this Bar Clock, the three bars that are from thickest to thinnest respectively stand for the hour hand, minute hand and second hand. They move from left to right at their own speed.
 
 #### 02: Chart of Nuclear Testing Illustrating Variables of Year, Country and Testing Frequency
