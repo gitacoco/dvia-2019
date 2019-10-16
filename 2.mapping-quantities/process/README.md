@@ -2,11 +2,11 @@
 ### A Thousand Suns: Mapping Quantities, Categories, and Summarized Data
 #### 01: Chart of Nuclear Testing Illustrating Variables of Year, Country, Testing Frequency and Location
 ![illustrative images](./Solution1_Timelines.jpg)
-For this chart, I use a Stream Graph to show the testing trend of all country (the retinal variable: shape) and the testing trend of each country (the retinal variable: color) during the progression of time lapse, reflecting the change of overall trend while allowing people to identify the proportion of a specific country.
+For this chart, I use a Stream Graph to simultaneously show the testing frequency of all countries (the retinal variable: shape) and each country (the retinal variable: color) during the progression of time lapse, reflecting the change of the overall trend while allowing people to identify the proportion of a specific country.
 
 #### 02: Chart of Nuclear Testing Illustrating Variables of Year, Country and Testing Frequency
 ![illustrative images](./Solution2_ThemeRiver.jpg)
-The Pie Clock uses three pie charts to visulize elapsed time. These three pie charts are stacked from top to bottom in order from small to large, which respectively represents hour, minute and second.
+For this chart, I use lines to connect the testing active years of each country (the retinal variable: color, shape), whose continuity allows audiences to identify whether there is nuclear testing of a certain year. This is a method to address the 'lull' that resulted from the Comprehensive Test Ban Treaty in ’96 and the more recent resurgence in testing.
 
 #### 02: Chart of Nuclear Testing Illustrating Variables of Year, Country and Testing Frequency
 ![illustrative images](./Solution3_BubbleChart.jpg)
