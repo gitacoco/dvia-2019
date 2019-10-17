@@ -14,7 +14,8 @@ For this chart, I use a Stream Graph to simultaneously show the testing frequenc
 ![illustrative images](./Solution3_BubbleChart.jpg)
 For this chart, I use a Bubble Chart to visulize nuclear testing data and then to compare the testing trend and show the relationships between countries by the use of positioning and proportions. This overall picture reveals the correlation of the background of Cold War.
 
-### Additional Sketch 1
+### Additional Sketch
+#### Sketch 1
 ![illustrative images](./Sketch1.jpeg)
-### Additional Sketch 2
+#### Sketch 2
 ![illustrative images](./sketch2.jpeg)
