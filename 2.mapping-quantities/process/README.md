@@ -15,7 +15,9 @@ For this chart, I use a Stream Graph to simultaneously show the testing frequenc
 For this chart, I use a Bubble Chart to visulize nuclear testing data and then to compare the testing trend and show the relationships between countries by the use of positioning and proportions. This overall picture reveals the correlation of the background of Cold War.
 
 ### Additional Sketch
-#### Sketch 1
+#### Sketch 1: the Accumulated Testing Frequency of Three Dominant Countries
 ![illustrative images](./Sketch1.jpeg)
-#### Sketch 2
-![illustrative images](./sketch2.jpeg)
+This idea involves various countries using Star Chart in a small multiple way, showing the accumulated testing frequency of three dominant countries.
+#### Sketch 2: the Contribution to the Testing Frequency of Each Country and its Evolution
+![illustrative images](./Sketch2.jpeg)
+This idea is to use different individual axis to map the timeline in proportion based on the TimeWheel Technique as a variant of Parallel coordinates.
