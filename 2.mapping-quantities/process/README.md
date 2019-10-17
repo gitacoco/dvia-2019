@@ -17,7 +17,7 @@ For this chart, I use a Bubble Chart to visulize nuclear testing data and then t
 ### Additional Sketch
 #### Sketch 1: the Contribution to the Testing Frequency of Each Country and its Evolution
 ![illustrative images](./Sketch1.jpeg)
-This idea is to use different individual axis to map the timeline in proportion based on the TimeWheel Technique as a variant of Parallel coordinates.
+This idea is to use different individual axis to map the timeline in proportion based on the TimeWheel Technique as a variant of Parallel Coordinates.
 
 #### Sketch 2: the Accumulated Testing Frequency of Three Dominant Countries
 ![illustrative images](./SKetch2.jpeg)
