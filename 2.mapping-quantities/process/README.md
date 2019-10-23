@@ -15,7 +15,7 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 
 ### Sketches
 #### Sketch 1: the Contribution to the Testing Frequency of Each Country and its Evolution
-![illustrative images](./MergingDataSketch1.jpg)
+![illustrative images](./1_MergingDataSketch.jpg)
 
 
 #### Sketch 2: the Accumulated Testing Frequency of Three Dominant Countries
