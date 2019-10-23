@@ -1,6 +1,8 @@
 ## Process
 ## Week 7 Assignment
 ### External Data: sixty-three years of radiocarbon dioxide measurements at Wellington, New Zealand (1954-2017)
+I chose the Carbon-14 data of New Zealand, which is the world’s longest record. I downloaded the data through [World Data Centre for Greenhouse Gases](https://gaw.kishou.go.jp/search) where you could access the dataset. You could also access the [DATASET](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true) and the [VARIABLE ATTRIBUTES](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=910863073&single=true) for this project through my Google Sheets Spreadsheet Form.  
+
 > "Carbon-14 is produced naturally in the atmosphere by a chemical reaction triggered by cosmic rays. Nuclear weapon testing in the 1950s and early 1960s led to a rapid rise in atmospheric levels."  
 
 Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells. Retrieved October 23, 2019, from https://www.newscientist.com/article/mg22229720-800-race-to-read-the-h-bomb-timestamp-that-marks-all-cells/.
@@ -11,7 +13,7 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 [2] Levin, I.; et al. (1994). ["δ14C record from Vermunt"](https://cdiac.ess-dive.lbl.gov/trends/co2/cent-verm.html). Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center.  
 [3] ["Radiocarbon dating"](http://web.science.uu.nl/AMS/Radiocarbon.htm). University of Utrecht.  
 
-I chose the Carbon-14 data of New Zealand, which is the world’s longest record. I downloaded the data through [World Data Centre for Greenhouse Gases](https://gaw.kishou.go.jp/search) where you could access the dataset. You could also access the [DATASET](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true) and the [VARIABLE ATTRIBUTES](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=910863073&single=true) for this project through my Google Sheets Spreadsheet Form. 
+
 
 
 ## Week 6 Assignment
