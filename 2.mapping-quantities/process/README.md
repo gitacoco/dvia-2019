@@ -14,11 +14,11 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 [3] ["Radiocarbon dating"](http://web.science.uu.nl/AMS/Radiocarbon.htm). University of Utrecht.  
 
 ### Sketches
-#### Sketch 1: the Contribution to the Testing Frequency of Each Country and its Evolution
+#### Sketch 1: the Relationship Between the Testing Frequency and the Atmospheric 􏰈􏰈Carbon-14 Content
 ![illustrative images](./1_MergingDataSketch.jpg)
 
 
-#### Sketch 2: the Accumulated Testing Frequency of Three Dominant Countries
+#### Sketch 2: 
 ![illustrative images](./MergingDataSketch2.jpg)
 
 
