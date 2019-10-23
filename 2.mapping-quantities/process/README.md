@@ -3,6 +3,9 @@
 ### A Brief Introduction of the External Data: Bomb Curve
 > Carbon-14 is produced naturally in the atmosphere by a chemical reaction triggered by cosmic rays. Nuclear weapon testing in the 1950s and early 1960s led to a rapid rise in atmospheric levels.  
 ![illustrative images](./bombcurve.jpeg)  
+Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells. Retrieved October 23, 2019, from https://www.newscientist.com/article/mg22229720-800-race-to-read-the-h-bomb-timestamp-that-marks-all-cells/.
+
+Read more: https://www.newscientist.com/article/mg22229720-800-race-to-read-the-h-bomb-timestamp-that-marks-all-cells/#ixzz63DHPFViW
 > Atmospheric Carbon-14, New Zealand[1] and Austria.[2] The New Zealand curve is representative for the Southern Hemisphere, the Austrian curve is representative for the Northern Hemisphere. Atmospheric nuclear weapon tests almost doubled the concentration of 14C in the Northern Hemisphere.[3]
 
 The datasets could be accessed through the [World Data Centre for Greenhouse Gases](http://ds.data.jma.go.jp/gmd/wdcgg/).
