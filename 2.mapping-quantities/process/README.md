@@ -1,6 +1,6 @@
 ## Process
 ## Week 7 Assignment
-### External Data: Bomb Curve - sixty-three years of radiocarbon dioxide measurements at Wellington, New Zealand (1954-2017)
+### External Data: sixty-three years of radiocarbon dioxide measurements at Wellington, New Zealand (1954-2017)
 > "Carbon-14 is produced naturally in the atmosphere by a chemical reaction triggered by cosmic rays. Nuclear weapon testing in the 1950s and early 1960s led to a rapid rise in atmospheric levels."  
 
 Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells. Retrieved October 23, 2019, from https://www.newscientist.com/article/mg22229720-800-race-to-read-the-h-bomb-timestamp-that-marks-all-cells/.
