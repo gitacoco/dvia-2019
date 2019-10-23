@@ -15,12 +15,11 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 
 ### Sketches
 #### Sketch 1: the Contribution to the Testing Frequency of Each Country and its Evolution
-![illustrative images](./MergingDataSketch1.jpeg)
-This idea is to use different individual axis to map the timeline in proportion based on the TimeWheel Technique as a variant of Parallel Coordinates.
+![illustrative images](./MergingDataSketch1.jpg)
+
 
 #### Sketch 2: the Accumulated Testing Frequency of Three Dominant Countries
-![illustrative images](./MergingDataSketch2.jpeg)
-This idea involves various countries using Star Chart in a small multiple way, showing the accumulated testing frequency of three dominant countries.
+![illustrative images](./MergingDataSketch2.jpg)
 
 
 ## Week 6 Assignment
