@@ -1,8 +1,13 @@
 ## Process
 ## Week 7 Assignment
-### A brief introduction of the external data
+### A brief introduction of the external data: bomb curve
+
+![illustrative images](./bombcurve.jpeg)
+
+
+
 The datasets could be accessed through the [World Data Centre for Greenhouse Gases](http://ds.data.jma.go.jp/gmd/wdcgg/).
-You could also get accessed the [DATASET](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true) and the [VARIABLE ATTRIBUTES](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=910863073&single=true) for this project through my Google Sheets Spreadsheet Form. 
+You could also access the [DATASET](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true) and the [VARIABLE ATTRIBUTES](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=910863073&single=true) for this project through my Google Sheets Spreadsheet Form. 
 
 
 
