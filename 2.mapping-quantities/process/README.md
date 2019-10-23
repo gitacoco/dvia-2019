@@ -1,4 +1,14 @@
 ## Process
+## Week 7 Assignment
+### A brief introduction of the external data
+The datasets could be accessed through the [World Data Centre for Greenhouse Gases](http://ds.data.jma.go.jp/gmd/wdcgg/).
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true
+
+
+
+
+## Week 6 Assignment
 ### A Thousand Suns: Mapping Quantities, Categories, and Summarized Data
 #### 01: Chart of Nuclear Testing Illustrating Variables of Year, Country, Testing Frequency and Location
 ![illustrative images](./1_Timelines.jpg)
