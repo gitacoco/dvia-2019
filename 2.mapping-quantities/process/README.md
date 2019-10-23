@@ -1,10 +1,9 @@
 ## Process
 ## Week 7 Assignment
-### A brief introduction of the external data: bomb curve
-
+### A Brief Introduction of the External Data: Bomb Curve
+> Carbon-14 is produced naturally in the atmosphere by a chemical reaction triggered by cosmic rays. Nuclear weapon testing in the 1950s and early 1960s led to a rapid rise in atmospheric levels.
 ![illustrative images](./bombcurve.jpeg)
-
-
+> Atmospheric Carbon-14, New Zealand[1] and Austria.[2] The New Zealand curve is representative for the Southern Hemisphere, the Austrian curve is representative for the Northern Hemisphere. Atmospheric nuclear weapon tests almost doubled the concentration of 14C in the Northern Hemisphere.[3]
 
 The datasets could be accessed through the [World Data Centre for Greenhouse Gases](http://ds.data.jma.go.jp/gmd/wdcgg/).
 You could also access the [DATASET](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true) and the [VARIABLE ATTRIBUTES](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=910863073&single=true) for this project through my Google Sheets Spreadsheet Form. 
