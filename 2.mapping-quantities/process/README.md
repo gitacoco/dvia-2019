@@ -13,7 +13,14 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 [2] Levin, I.; et al. (1994). ["δ14C record from Vermunt"](https://cdiac.ess-dive.lbl.gov/trends/co2/cent-verm.html). Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center.  
 [3] ["Radiocarbon dating"](http://web.science.uu.nl/AMS/Radiocarbon.htm). University of Utrecht.  
 
+### Sketches
+#### Sketch 1: the Contribution to the Testing Frequency of Each Country and its Evolution
+![illustrative images](./Sketch1.jpeg)
+This idea is to use different individual axis to map the timeline in proportion based on the TimeWheel Technique as a variant of Parallel Coordinates.
 
+#### Sketch 2: the Accumulated Testing Frequency of Three Dominant Countries
+![illustrative images](./SKetch2.jpeg)
+This idea involves various countries using Star Chart in a small multiple way, showing the accumulated testing frequency of three dominant countries.
 
 
 ## Week 6 Assignment
