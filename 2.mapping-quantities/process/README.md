@@ -5,9 +5,9 @@
 ![illustrative images](./bombcurve.jpeg)  
 Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells. Retrieved October 23, 2019, from https://www.newscientist.com/article/mg22229720-800-race-to-read-the-h-bomb-timestamp-that-marks-all-cells/.
 
-"Atmospheric Carbon-14, New Zealand[1] and Austria[2]. The New Zealand curve is representative for the Southern Hemisphere, the Austrian curve is representative for the Northern Hemisphere. Atmospheric nuclear weapon tests almost doubled the concentration of 14C in the Northern Hemisphere.[3]"
-[1] "Atmospheric δ14C record from Wellington". Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center. 1994. Archived from the original on 2014-02-01. Retrieved 2007-06-11.
-[2] Levin, I.; et al. (1994). "δ14C record from Vermunt". Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center. Archived from the original on 2008-09-23.
+"Atmospheric Carbon-14, New Zealand[1] and Austria[2]. The New Zealand curve is representative for the Southern Hemisphere, the Austrian curve is representative for the Northern Hemisphere. Atmospheric nuclear weapon tests almost doubled the concentration of 14C in the Northern Hemisphere.[3]"  
+[1] "Atmospheric δ14C record from Wellington". Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center. 1994. Archived from the original on 2014-02-01. Retrieved 2007-06-11.  
+[2] Levin, I.; et al. (1994). "δ14C record from Vermunt". Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center. Archived from the original on 2008-09-23.  
 [3] "Radiocarbon dating". University of Utrecht. Archived from the original on 2007-12-09. Retrieved 2008-02-19.
 
 The datasets could be accessed through the [World Data Centre for Greenhouse Gases](http://ds.data.jma.go.jp/gmd/wdcgg/).
