@@ -17,7 +17,8 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 #### Sketch: the Relationship Between the Testing Frequency and the Atmospheric 􏰈􏰈Carbon-14 Content
 ![illustrative images](./1_MergingDataSketch.jpg)
 
-
+#### Sketch: the Relationship Between the Estimate of Above-ground Bomb's Explosive Power and the Atmospheric 􏰈􏰈Carbon-14 Content
+![illustrative images](./2_MergingDataSketch.jpg)
 
 
 ## Week 6 Assignment
