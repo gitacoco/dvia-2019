@@ -18,8 +18,6 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 ![illustrative images](./1_MergingDataSketch.jpg)
 
 
-#### Sketch 2: 
-![illustrative images](./MergingDataSketch2.jpg)
 
 
 ## Week 6 Assignment
