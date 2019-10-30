@@ -1,19 +1,19 @@
 var totals
 
 function preload(){
-  totals = loadTable('data/all-frequency.csv', 'csv', 'header');
+  totals = loadTable('data/all-frequency.csv', 'csv', 'header')
 }
 
 function setup(){
-  createCanvas(3200, 600)
+  createCanvas(2000, 600)
   background(230)
 
   // pick the data file to work with and call it "table"
   var table = totals
-
+ 
   // count the colums
-  print(table.getRowCount() + ' total rows in table');
-  print(table.getColumnCount() + ' total columns in table');
+  print(table.getRowCount() + ' total rows in table')
+  print(table.getColumnCount() + ' total columns in table')
 
   // set up typography
   textFont("Rokkitt")
@@ -26,11 +26,11 @@ function setup(){
   var rowHeight = 60
   var colWidth = 40
 
-  print(table.getRow('Year'));
-  print(table.getRow('Frequency'));
+  print(table.getRow('Year'))
+  print(table.getRow('Frequency'))
 
   for (let r = 0; r < table.getRowCount(); r++)
-  	for (let c = 0; c< table.getColumnCount(); c++){print(table.getString(r, c));
+  	for (let c = 0; c< table.getColumnCount(); c++){print(table.getString(r, c))
   	}
 
 }
