@@ -5,7 +5,8 @@ function preload(){
 }
 
 function setup(){
-  createCanvas(800, 600)
+  createCanvas(3200, 600)
+  background(230)
 
   // pick the data file to work with and call it "table"
   var table = totals
@@ -23,6 +24,5 @@ function setup(){
   var y = 100
   var rowHeight = 60
   var colWidth = 40
-
-
+  
 }
