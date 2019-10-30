@@ -2,6 +2,8 @@ var totals
 
 function preload(){
   totals = loadTable('data/all-frequency.csv', 'csv', 'header')
+}
+
 function setup(){
   createCanvas(800, 600)
 
