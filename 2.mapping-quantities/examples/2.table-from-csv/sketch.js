@@ -32,6 +32,7 @@ function setup(){
   // draw country name labels on the left edge of the table
   textStyle(BOLD)
   textAlign(RIGHT)
+  for (var c=1; c<table.getColumnCount(); c++){
     text(table.columns[c], x-colWidth, y)
     y += rowHeight
   }
