@@ -5,7 +5,7 @@ function preload(){
 }
 
 function setup(){
-  createCanvas(3300, 1000)
+  createCanvas(3300, 1000, SVG)
   background(230)
   
   // pick the data file to work with and call it "table"
@@ -20,8 +20,6 @@ function setup(){
   fill(30)
   noStroke()
 
-  //var x = 200
-  //var y = 100
   var rowHeight = 60
   var colWidth = 45
 
