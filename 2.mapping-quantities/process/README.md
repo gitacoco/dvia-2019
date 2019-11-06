@@ -1,9 +1,10 @@
 # Process
-## Week 8 Assignment
+## Week 9 Assignment （Due Nov 6)
+## Week 8 Assignment （Due Oct 30)
 An updated version based on the sketch of last week.
 ![illustrative images](./bombcurve_update.jpg)
 
-## Week 7 Assignment
+## Week 7 Assignment （Due Oct 23)
 ### External Data: sixty-three years of radiocarbon dioxide measurements at Wellington, New Zealand (1954-2017)
 I chose the Carbon-14 data of New Zealand, which is the world’s longest record. I downloaded the data through [World Data Centre for Greenhouse Gases](https://gaw.kishou.go.jp/search) where you could access the dataset. You could also access the [DATASET](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true) and the [VARIABLE ATTRIBUTES](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=910863073&single=true) for this project through my Google Sheets Spreadsheet Form.  
 
@@ -25,7 +26,7 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 ![illustrative images](./2_MergingDataSketch.jpg)
 
 
-## Week 6 Assignment
+## Week 6 Assignment （Due Oct 16)
 ### A Thousand Suns: Mapping Quantities, Categories, and Summarized Data
 #### 01: Chart of Nuclear Testing Illustrating Variables of Year, Country, Testing Frequency and Location
 ![illustrative images](./1_Timelines.jpg)
