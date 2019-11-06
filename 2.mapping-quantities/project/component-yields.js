@@ -1,6 +1,4 @@
-var tests
 var yields
-var carbon
 
 function preload(){
   tests = loadTable('data/all-frequency.csv', 'csv', 'header')
