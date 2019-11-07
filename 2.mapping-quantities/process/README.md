@@ -1,5 +1,6 @@
 # Process
 ## Week 9 Assignment （Due Nov 6)
+![illustrative images](./final_poster.jpg)
 ## Week 8 Assignment （Due Oct 30)
 An updated version based on the sketch of last week.
 ![illustrative images](./bombcurve_update.jpg)
