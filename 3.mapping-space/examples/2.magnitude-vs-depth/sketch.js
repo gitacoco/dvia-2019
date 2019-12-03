@@ -13,6 +13,7 @@ function setup() {
   var x_right = width - x_left;
   var y_top = 50;
   var y_bot = height- y_top;
+    //class: to find the bunch of x and y locations
 
   // draw a background rectangle for the plot
   fill(255)

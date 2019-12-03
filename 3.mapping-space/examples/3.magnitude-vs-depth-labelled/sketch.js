@@ -31,7 +31,7 @@ function setup() {
 
   // define top left and bottom right corner of our plot
   x_left = 110;
-  x_right = width - 80;
+  x_right = width - 80; 
   y_top = 60;
   y_bot = height- 80;
 

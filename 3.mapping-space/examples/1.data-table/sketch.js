@@ -23,7 +23,7 @@ function setup() {
   //cycle through the table
   for (var r = 1; r < table.getRowCount(); r++){
     for (var c = 0; c < table.getColumnCount(); c++) {
-      text(table.getString(r, c), xPos + c*150, yPos+r*15);
+      text(table.getString(r, c), xPos + c*150, yPos+r*15); //x的位置是 column number 乘150
     }
   }
 }
