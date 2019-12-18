@@ -1,9 +1,10 @@
 ## Process 
 ### Right Twice a Day: Map Wall-clock Time
+> Complete at least three representations of the current wall-clock time (ignore days, weeks, moons, etc. for now) and document your ideas with text and sketches in the process folder. (Week 2 Assignment, 04 Sep 2019)
 ![illustrative images](./Sketch_wall_clock.jpg)
 #### Sketch 01: Bar Clock
 ##### Variables Used: Position, Size
-In this Bar Clock, the three bars that are from thickest to thinnest respectively stand for the hour hand, minute hand and second hand. They move from left to right at their own speed.
+In this Bar Clock, the three bars that are from thickest to thinnest respectively stand for the hour hands, minute hand and second hand. They move from left to right at their own speed.
 
 #### Sketch 02: Pie Clock
 ##### Variables Used: Value, Size
