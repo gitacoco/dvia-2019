@@ -22,6 +22,7 @@ The Line Clock uses compound logic. The black indicator is a hour hand that is j
 > Add 3 new sketches to your process folder that this time focus on representing at least two of the longer-term calendar variables. Each sketch should choose two different calendar values to represent and 6 different retinal variables across the 3 sketches. (Week 3 Assignment, 11 Sep 2019)
 
 > Convert your paper sketches into code for your three date visualizations. (Week 4 Assignment, 18 Sep 2019)
+> Develop one of your three ‘hybrid’ calendar + clock concepts in code for your final visualization. (Week 5 Assignment, 25 Sep 2019)
 
 #### [Sketch 01: Season & Month](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-time/date1_Season_Month)
 ![illustrative images](./Sketch1_calendar_time.jpg)
