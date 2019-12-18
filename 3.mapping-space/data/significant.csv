@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2011-03-11T06:15:40.280Z,36.281,141.111,42.6,7.9,mwc,163,48.4,,1.44,us,usp000hvpa,2018-09-28T19:49:45.258Z,"near the east coast of Honshu, Japan",earthquake,,9.6,,,reviewed,us,us
+2011-03-11T05:46:24.120Z,38.297,142.373,29,9.1,mww,541,9.5,,1.16,official,official20110311054624120_30,2019-06-21T21:15:32.501Z,"2011 Great Tohoku Earthquake, Japan",earthquake,,,,,reviewed,us,official
+2010-02-27T06:34:11.530Z,-36.122,-72.898,22.9,8.8,mww,454,17.8,,1.09,official,official20100227063411530_30,2019-06-21T21:38:09.703Z,"offshore Bio-Bio, Chile",earthquake,,9.2,,,reviewed,us,official
+2009-09-29T17:48:10.990Z,-15.489,-172.095,18,8.1,mwc,520,20.8,,1.01,us,usp000h1ys,2018-10-17T20:30:35.607Z,"Samoa Islands region",earthquake,,,,,reviewed,us,gcmt
+2008-05-12T06:28:01.570Z,31.002,103.322,19,7.9,mwc,774,11.3,,1.2,us,usp000g650,2018-10-17T20:29:37.870Z,"eastern Sichuan, China",earthquake,,,,,reviewed,us,us
+2007-09-12T23:49:03.720Z,-2.625,100.841,35,7.9,mwc,446,29.1,,1.01,us,usp000fn2b,2018-10-17T20:28:53.601Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,reviewed,us,gcmt
+2007-09-12T11:10:26.830Z,-4.438,101.367,34,8.4,mww,411,32.3,,1.03,official,official20070912111026830_34,2019-06-21T23:03:51.779Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,official
+2007-08-15T23:40:57.890Z,-13.386,-76.603,39,8,mwc,625,25.7,,0.86,us,usp000fjta,2018-10-17T20:28:32.629Z,"near the coast of central Peru",earthquake,,,,,reviewed,us,gcmt
+2007-04-01T20:39:58.710Z,-8.466,157.043,24,8.1,mwc,439,14.7,,1.32,us,usp000f83m,2018-10-17T20:28:15.646Z,"Solomon Islands",earthquake,,,,,reviewed,us,gcmt
+2007-01-13T04:23:21.160Z,46.243,154.524,10,8.1,mwc,606,14,,1.12,us,usp000f2ab,2018-10-17T20:27:54.374Z,"east of the Kuril Islands",earthquake,,,,,reviewed,us,gcmt
+2006-11-15T11:14:13.570Z,46.592,153.266,10,8.3,mwc,576,20.9,,1.07,us,usp000exfn,2018-10-17T20:27:43.975Z,"Kuril Islands",earthquake,,,,,reviewed,us,gcmt
+2006-05-03T15:26:40.290Z,-20.187,-174.123,55,8,mwc,626,20.7,,1.18,us,usp000eg5g,2018-10-17T20:27:24.932Z,"Tonga",earthquake,,,,,reviewed,us,hrv
+2005-03-28T16:09:36.530Z,2.085,97.108,30,8.6,mww,510,22.1,,0.91,official,official20050328160936530_30,2018-10-17T20:26:09.585Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,official
+2004-12-26T00:58:53.450Z,3.295,95.982,30,9.1,mw,601,22,,1.17,official,official20041226005853450_30,2019-06-21T21:13:36.762Z,"2004 Sumatra - Andaman Islands Earthquake",earthquake,,,,,reviewed,us,official
+2004-12-23T14:59:04.410Z,-49.312,161.345,10,8.1,mwc,331,59.3,,1.12,us,usp000db93,2018-10-17T20:25:57.306Z,"north of Macquarie Island",earthquake,,,,,reviewed,us,hrv
