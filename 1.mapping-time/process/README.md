@@ -22,6 +22,7 @@ See the code [here](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-
 
 
 ### Right Twice a Day: Map Calendar Time
+> Add 3 new sketches to your process folder that this time focus on representing at least two of the longer-term calendar variables. Each sketch should choose two different calendar values to represent and 6 different retinal variables across the 3 sketches. (Week 3 Assignment, 11 Sep 2019)
 
 #### Sketch 01: Season & Month
 ![illustrative images](./Sketch1_calendar_time.jpg)
