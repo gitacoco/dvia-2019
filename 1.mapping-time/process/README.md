@@ -38,6 +38,7 @@ Twelve loops are used to present twelve months. These loops could be seen as con
 ##### Visual Variables Used for Month: Orientation, Value; for Day-of-week: Size, Value
 
 ### Right Twice a Day: Hybrid Clock
+> Have three concepts for a time visualization that includes the values from your ‘clock’ explorations and at least three ‘calendar’ variables of your own choosing. (Week 5 In-class Work, 25 Sep 2019)
 
 #### Sketch 01: Season/Month/Meridiem & Hour/Minute/Second
 Please refer to the Final folder.
