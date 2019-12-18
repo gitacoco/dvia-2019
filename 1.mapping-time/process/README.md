@@ -1,5 +1,5 @@
-## Process 
-### Right Twice a Day: Map Wall-clock Time
+## Process of Right Twice a Day
+### 1 Map Wall-clock Time
 > Complete at least three representations of the current wall-clock time (ignore days, weeks, moons, etc. for now) and document your ideas with text and sketches in the process folder. (Week 2 Assignment, 04 Sep 2019)
 
 > This time everything must be done in code. Start by duplicating your project folder three times and naming them clock-1, clock-2, and clock-3. (Week 3 Assignment, 11 Sep 2019)
@@ -18,7 +18,7 @@ The Pie Clock uses three pie charts to visulize elapsed time. These three pie ch
 The Line Clock uses compound logic. The black indicator is a hour hand that is just like a normal clock, but the dial is applied a 24-hour system. And the incomplete arc represents a minute hand that is growing clockwise and will enter another round after resetting the count every 60 minutes. And the complete thicker loop radiates from the center of the circle to the periphery, which represents the second hand like a live breathing light. The dotted circle is a border of the second hand.
 
 
-### Right Twice a Day: Map Calendar Time
+### 2 Map Calendar Time
 > Add 3 new sketches to your process folder that this time focus on representing at least two of the longer-term calendar variables. Each sketch should choose two different calendar values to represent and 6 different retinal variables across the 3 sketches. (Week 3 Assignment, 11 Sep 2019)
 
 > Convert your paper sketches into code for your three date visualizations. (Week 4 Assignment, 18 Sep 2019)
@@ -37,7 +37,7 @@ Twelve loops are used to present twelve months. These loops could be seen as con
 ![illustrative images](./Sketch3_calendar_time.jpg)
 ##### Visual Variables Used for Month: Orientation, Value; for Day-of-week: Size, Value
 
-### Right Twice a Day: Hybrid Clock
+### 3 Hybrid Clock
 > Have three concepts for a time visualization that includes the values from your ‘clock’ explorations and at least three ‘calendar’ variables of your own choosing. (Week 5 In-class Work, 25 Sep 2019)
 
 #### Sketch 01: Season/Month/Meridiem & Hour/Minute/Second
