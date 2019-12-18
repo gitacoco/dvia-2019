@@ -41,7 +41,7 @@ Twelve loops are used to present twelve months. These loops could be seen as con
 > Have three concepts for a time visualization that includes the values from your ‘clock’ explorations and at least three ‘calendar’ variables of your own choosing. (Week 5 In-class Work, 25 Sep 2019)
 
 #### Sketch 01: Season/Month/Meridiem & Hour/Minute/Second
-Please refer to the Final folder.
+Please refer to the [final folder](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-time/final_loop_clock).
 
 #### Sketch 02: Moon/Month/Weekday & Hour/Minute/Second
 ![illustrative images](./Hybrid_Sketch2.jpg)
