@@ -25,20 +25,17 @@ The Line Clock uses compound logic. The black indicator is a hour hand that is j
 
 #### [Sketch 01: Season & Month](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-time/date1_Season_Month)
 ![illustrative images](./Sketch1_calendar_time.jpg)
-##### Visual Variables Used for Season: Color, Position
-##### Visual Variables Used for Month: Position
+##### Visual Variables Used for Season: Color, Position; for Month: Position
 I classify months into four seasons. For example, the months from March to May belongs to spring, from June to August belongs to Summer and so on.
 Twelve loops are used to present twelve months. These loops could be seen as containers. Each current month would be a point contained in the corresponding loop.
 
 #### Sketch 02: Moon & Day-of-week
 ![illustrative images](./Sketch2_calendar_time.jpg)
-##### Visual Variables Used for Moon: Shape
-##### Visual Variables Used for Day-of-week: Texture
+##### Visual Variables Used for Moon: Shape; for Day-of-week: Texture
 
 #### [Sketch 03: Month & Day-of-week](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-time/date3_Month_Dayofweek)
 ![illustrative images](./Sketch3_calendar_time.jpg)
-##### Visual Variables Used for Month: Orientation, Value
-##### Visual Variables Used for Day-of-week: Size, Value
+##### Visual Variables Used for Month: Orientation, Value; for Day-of-week: Size, Value
 
 ### Right Twice a Day: Hybrid Clock
 
