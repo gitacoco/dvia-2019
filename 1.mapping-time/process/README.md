@@ -1,6 +1,7 @@
 ## Process 
 ### Right Twice a Day: Map Wall-clock Time
 > Complete at least three representations of the current wall-clock time (ignore days, weeks, moons, etc. for now) and document your ideas with text and sketches in the process folder. (Week 2 Assignment, 04 Sep 2019)
+
 > This time everything must be done in code. Start by duplicating your project folder three times and naming them clock-1, clock-2, and clock-3. (Week 3 Assignment, 11 Sep 2019)
 
 ![illustrative images](./Sketch_wall_clock.jpg)
