@@ -24,22 +24,24 @@ See the code [here](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-
 ### Right Twice a Day: Map Calendar Time
 > Add 3 new sketches to your process folder that this time focus on representing at least two of the longer-term calendar variables. Each sketch should choose two different calendar values to represent and 6 different retinal variables across the 3 sketches. (Week 3 Assignment, 11 Sep 2019)
 
+> Convert your paper sketches into code for your three date visualizations. (Week 4 Assignment, 18 Sep 2019)
+
 #### Sketch 01: Season & Month
 ![illustrative images](./Sketch1_calendar_time.jpg)
-##### Variables Used of Season: Color, Position
-I classify months into four seasons that March to May belong to spring, June to August belong to Summer and so on.
-##### Variables Used of Month: Position
+##### Visual Variables Used for Season: Color, Position
+I classify months into four seasons. For example, the months from March to May belongs to spring, from June to August belongs to Summer and so on.
+##### Visual Variables Used for Month: Position
 Twelve loops are used to present twelve months. These loops could be seen as containers. Each current month would be a point contained in the corresponding loop.
 
 #### Sketch 02: Moon & Day-of-week
 ![illustrative images](./Sketch2_calendar_time.jpg)
-##### Variables Used of Moon: Shape
-##### Variables Used of Day-of-week: Texture
+##### Visual Variables Used for Moon: Shape
+##### Visual Variables Used for Day-of-week: Texture
 
 #### Sketch 03: Month & Day-of-week
 ![illustrative images](./Sketch3_calendar_time.jpg)
-##### Variables Used of Month: Orientation, Value
-##### Variables Used of Day-of-week: Size, Value
+##### Visual Variables Used for Month: Orientation, Value
+##### Visual Variables Used for Day-of-week: Size, Value
 
 ### Right Twice a Day: Hybrid Clock
 
