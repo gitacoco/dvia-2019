@@ -5,10 +5,9 @@
 > This time everything must be done in code. Start by duplicating your project folder three times and naming them clock-1, clock-2, and clock-3. (Week 3 Assignment, 11 Sep 2019)
 
 ![illustrative images](./Sketch_wall_clock.jpg)
-#### Sketch 01: Bar Clock
+#### Sketch 01: [Bar Clock](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-time/clock1_BarClock)
 ##### Variables Used: Position, Size
-In this Bar Clock, the three bars that are from thickest to thinnest respectively stand for the hour hands, minute hand and second hand. They move from left to right at their own speed.
-See the code [here](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-time/clock1_BarClock)
+In this Bar Clock, the three bars that are from thickest to thinnest respectively stand for the hour hands, minute hand and second hand. They move from left to right at their own speed.s
 
 #### Sketch 02: Pie Clock
 ##### Variables Used: Value, Size
