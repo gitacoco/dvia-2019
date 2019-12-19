@@ -48,7 +48,7 @@ source: https://glowy-earthquakes.glitch.me/?adumkts=social&aduc=social&adum=ext
 ### 4/ [Final Presentation](https://github.com/gitacoco/dvia-2019/tree/master/3.mapping-space/final_project)
 #### A Brief Introduction
 When you visit this site at first you will see a storyting view and then you may enter a dashboard view to discover the map freely.
-In the first view, I extract the data of significant earthquakes above the magnitued of 7.0 from USGS to support the story of "the most 4 significant earthquakes in 21st century". And I designed a guidance button to indicate that you could just scroll down to see the next story card. Each card has a corresponding map view (latitude, longitude and zoom level), meaning that when you switch to a certain card, the map view will seamlessly and automatically transform to the exact earthquake occurrence location which you may look into. And a radar chart has been put in each card, which indicates the relationship among 
+In the first view, I extract the data of significant earthquakes above the magnitued of 7.0 from USGS to support the story of "the most 4 significant earthquakes in 21st century". And I designed a guidance button to indicate that you could just scroll down to see the next story card. Each card has a corresponding map view (latitude, longitude and zoom level), meaning that when you switch to a certain card, the map view will seamlessly (Actually, the rendering speed of Leaflet is much much lower than Mapbox, so it's not perfectly seamless.) and automatically transform to the exact earthquake occurrence location which you may look into. And a radar chart has been put in each card, which indicates the relationship among 
 
 ### 5/ Future Work
 #### 5.1/ Add more POI on the Map
