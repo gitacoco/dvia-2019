@@ -45,3 +45,5 @@
 > Continue developing your prototype and have a rough draft of your finished project. (Week 13 Assignment, 04 Dec 2019)
 
 ### 5/ Future Work
+#### Cross-encoding of the Color
+#### Interactivity of the Charts in the Story Cards
