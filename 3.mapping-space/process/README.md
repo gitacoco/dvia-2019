@@ -25,7 +25,7 @@ As for magnitude and frequency data, what I want to do is to use a same basemap 
 
 > Explore the selected direction and prototype the different component views that will make up your final visualization with a clear idea of how they will interact with one another. (Week 11 Assignment, 13 Nov 2019)
 
-Following my idea and plan, I collected many similar cases and synthesized my prototypes.
+Following my idea and plan, I collected many similar cases and synthesized the dashboard prototype. There are three views which respectively represents the two-dimensional earthquake frequency, the three-dimensional earthquake frequency and the earth assembled by earthquakes at different depth levels.
 
 ### 2.1/ First View: Visualize Frequency
 ![illustrative images](./2_prototype_frequency_plane.jpg)
@@ -39,7 +39,6 @@ source: http://www.princeton.edu/~efeibush/earthquakes/
 ![illustrative images](./2_prototype_depth.jpg)
 source: https://glowy-earthquakes.glitch.me/?adumkts=social&aduc=social&adum=external&aduca=social_technical&adusf=linkedin&adut=3d76a431-1519-4725-b169-939f5120340f
 
-### 2.4/ Interactivity
 
 ## 3/ Integrate
 
