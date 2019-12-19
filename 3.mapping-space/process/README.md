@@ -6,26 +6,26 @@
 
 > On the mapping side of things, figure out what kinds of markers you’ll be adding. (Week 10 Assignment, 6 Nov 2019)
 
-#### Visualize Depth
+#### 1.1/ Visualize Depth
 ![illustrative images](./1_diagrammatic_depth.jpg)
 
-#### Visualize Manitude
+#### 1.2/ Visualize Manitude
 ![illustrative images](./1_markers_magnitude.jpg)
 
-#### Visualize Frequency
+#### 1.3/ Visualize Frequency
 ![illustrative images](./1_markers_frequency.jpg)
 
 ### 2/ Prototype
 
 > Explore the selected direction and prototype the different component views that will make up your final visualization with a clear idea of how they will interact with one another. (Week 11 Assignment, 13 Nov 2019)
 
-#### First View: Visualize Frequency
+#### 2.1/ First View: Visualize Frequency
 ![illustrative images](./2_prototype_frequency_plane.jpg)
 
-#### Second View: Transform Frequency View
+#### 2.2/ Second View: Transform Frequency View
 ![illustrative images](./2_prototype_frequency_stack.jpg)
 
-#### Third View: Visualize Depth
+#### 2.3/ Third View: Visualize Depth
 ![illustrative images](./2_prototype_depth.jpg)
 
 #### Interactivity
@@ -36,10 +36,10 @@
 
 > Continue developing your prototype and have a rough draft of your finished project. (Week 13 Assignment, 04 Dec 2019)
 
-#### Simplify Features
+#### 3.1/ Simplify Features
 ![illustrative images](./3_integrate_simplify.png)
 
-#### Amplify Storytelling
+#### 3.2/ Amplify Storytelling
 ![illustrative images](./3_integrate_amplify.png)
 
 ### 4/ [Final Presentation](https://github.com/gitacoco/dvia-2019/tree/master/3.mapping-space/final_project)
