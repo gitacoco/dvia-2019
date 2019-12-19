@@ -34,16 +34,25 @@
 
 > Integrate your diagram and map into a single, cohesive view on one web page. (Week 12 Assignment, 20 Nov 2019) 
 
+> Continue developing your prototype and have a rough draft of your finished project. (Week 13 Assignment, 04 Dec 2019)
+
 #### Simplify Features
 ![illustrative images](./3_integrate_simplify.png)
 
 #### Amplify Storytelling
 ![illustrative images](./3_integrate_amplify.png)
 
-### 4/ Final Presentation
+### 4/ [Final Presentation](https://github.com/gitacoco/dvia-2019/tree/master/3.mapping-space/final_project)
+功能简介：
+分别使用点（point） 和六边形（polygon）基于相同的底图（basemap）实现地理信息数据的地图展示；
+实现对地理信息数据的统计图表展示，分别选择数据集中相应纬度，实现对“按日期进行频次统计的地震”、“按震级进行频次统计的地震”和“按深度进行频次统计的地震”；
+使用控制面板作为交互控件和统计图表的容器；
+三个统计图表支持框选功能；
 
-> Continue developing your prototype and have a rough draft of your finished project. (Week 13 Assignment, 04 Dec 2019)
 
 ### 5/ Future Work
+#### Add more POI on the Map
+##### Add Volcanoes
+##### Add Fault Lines
 #### Cross-encoding of the Color
 #### Interactivity of the Charts in the Story Cards
