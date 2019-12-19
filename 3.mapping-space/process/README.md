@@ -27,6 +27,12 @@ As for magnitude and frequency data, what I want to do is to use a same basemap 
 
 Following my idea and plan, I collected many similar cases and synthesized the dashboard prototype. There are three views which respectively represents the two-dimensional earthquake frequency, the three-dimensional earthquake frequency and the earth assembled by earthquakes at different depth levels.
 
+#### the Logic of My Diagram Designs
+The diagram components are all lying in a container: a control panel which is at the bottom of the screen.
+
+The first diagram is a time range selector that supports the frequency statistics display and simultaneously allows a user to selet a range of time, a length of granularity.
+
+
 ### 2.1/ First View: Visualize Frequency
 ![illustrative images](./2_prototype_frequency_plane.jpg)
 source: https://github.com/mapschool/course/issues/38#issuecomment-417553952
