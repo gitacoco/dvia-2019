@@ -52,7 +52,7 @@ In the first view, I extract the data of significant earthquakes above the magni
 ##### Add Volcanoes
 ![illustrative images](./5_future_work_volcanoes.png)
 ##### Add Fault Lines
-![illustrative images](./5_future_works_fault.png)
+![illustrative images](./5_future_work_fault.png)
 
 #### Cross-encoding of the Color
 #### Interactivity of the Charts in the Story Cards
