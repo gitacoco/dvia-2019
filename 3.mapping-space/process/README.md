@@ -48,11 +48,11 @@ When you visit this site at first you will see a storyting view and then you may
 In the first view, I extract the data of significant earthquakes above the magnitued of 7.0 from USGS to support the story of "the most 4 significant earthquakes in 21st century". And I designed a guidance button to indicate that you could just scroll down to see the next story card. 
 
 ### 5/ Future Work
-#### Add more POI on the Map
-##### Add Volcanoes
+#### 5.1/ Add more POI on the Map
+##### 5.1.1/ Add Volcanoes
 ![illustrative images](./5_future_work_volcanoes.png)
-##### Add Fault Lines
+##### 5.1.2/ Add Fault Lines
 ![illustrative images](./5_future_work_fault.png)
 
-#### Cross-encoding of the Color
-#### Interactivity of the Charts in the Story Cards
+#### 5.2/ Cross-encoding of the Color
+#### 5.3/ Interactivity of the Charts in the Story Cards
