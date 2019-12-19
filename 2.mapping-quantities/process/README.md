@@ -57,8 +57,14 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 ![illustrative images](./2_MergingDataSketch.jpg)
 
 ### 6/ Code-based Exploration
+
+> Create three code-based sketches exploring your chosen design direction for depicting the testing data and your candidate representations of the external data you’ve collected. (Week 8 Assignment, 23 Oct 2019)
+
 To support a better comparison between two diagrams, I made an updated version based on the sketch of last week. I took apart them into two charts with the **sharing time axis**.
 ![illustrative images](./bombcurve_update.jpg)
+
+Also, I made a [demo](./jquery-image-stack-compare/index.html) to try to realize the picture-stack-compare effect.
+![illustrative images](image_stack_compare.png)
 
 ## Week 9 Assignment （Due Nov 6)
 ![illustrative images](./final_poster.jpg)
