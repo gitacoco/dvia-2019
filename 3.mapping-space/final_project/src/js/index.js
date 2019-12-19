@@ -241,6 +241,7 @@ const listen = () => {
     $('#app_start').hide()
     $('.J_inner_container').removeClass('f-fixed')
     $('.J_control').removeClass('f-hide f-deephide')
+    map.flyTo(window.config.initLatlng, window.config.initZoom)
   })
 
   $(window).on('filter', (_, filterObject) => {
