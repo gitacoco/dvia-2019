@@ -1,4 +1,4 @@
-## Process of Right Twice a Day
+## Process of A Thousand Suns
 ### 1/ Exploratory Visualizations
 > Generate three exploratory visualizations based on the spreadsheet data. In addition, add three pencil sketches to the process folder exploring ways in which you could represent the nuclear testing data without using a map. (Week 6 Assignment, 2 Oct 2019)
 
