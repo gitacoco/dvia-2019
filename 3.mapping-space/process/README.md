@@ -13,11 +13,13 @@ The initial idea of this diagram is to show depth information in a two-dimension
 
 > On the mapping side of things, figure out what kinds of markers you’ll be adding. (Week 10 Assignment, 6 Nov 2019)
 
-### 1.2/ Visualize Manitude
+### 1.2/ Visualize Magnitude
 ![illustrative images](./1_markers_magnitude.jpg)
 
 ### 1.3/ Visualize Frequency
 ![illustrative images](./1_markers_frequency.jpg)
+
+As for magnitude and frequency data, what I want to do is to use a same basemap to display the data in both two-dimensional and three-dimensional ways, and creat seamless transformations to connect different views. Specifically, I plan to use size and/or hue of points to map magnitude data, and use hexagon bars to map frequency data.
 
 ## 2/ Case Study and Prototype
 
