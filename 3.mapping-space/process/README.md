@@ -9,7 +9,7 @@
 #### Why this way?
 I think it is not intuitive enough to map “depth” though the size, color of points or the height of bars on the map. The color may be suitble for visualizing a few categories of depth. But if we want to see the exact points or the overall pattern, trend and concentration, using aggregate method to only show categories or ranges will eliminate details of the data. Therefore, a three-dimensional map displaying the points at different depth would be a wiser choice. 
 
-The idea of this diagram is to show depth information in a two-dimensional way but reach a similar effect as a three-dimensional map. 
+The initial idea of this diagram is to show depth information in a two-dimensional way but would reach a similar effect (maybe) as a three-dimensional map. The X axis stands for the longitude coordinate, ranging from −180° to +180° from left to right, points in this diagram are projected from
 
 > On the mapping side of things, figure out what kinds of markers you’ll be adding. (Week 10 Assignment, 6 Nov 2019)
 
