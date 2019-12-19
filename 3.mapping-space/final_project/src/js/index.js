@@ -10,9 +10,9 @@ import 'fullpage.js/dist/fullpage.css'
 import './lib/cities'
 
 const depthColorList = [
-  '#34B6B7',
   '#7BE39E',
-  '#ECFFB1',
+  '#34B6B7',
+  '#146968',
 ]
 
 const L = window.L

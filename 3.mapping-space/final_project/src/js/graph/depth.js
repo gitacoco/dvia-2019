@@ -26,9 +26,9 @@ const levelLabels = [
 ]
 
 const depthColorList = [
-  '52,182,183',
   '123,227,158',
-  '236,255,177',
+  '52,182,183',
+  '20,105,104',
 ]
 
 const filterRanges = [
