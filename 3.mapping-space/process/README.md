@@ -31,7 +31,7 @@ source: http://www.princeton.edu/~efeibush/earthquakes/
 ![illustrative images](./2_prototype_depth.jpg)
 source: https://glowy-earthquakes.glitch.me/?adumkts=social&aduc=social&adum=external&aduca=social_technical&adusf=linkedin&adut=3d76a431-1519-4725-b169-939f5120340f
 
-#### Interactivity
+#### 2.4/ Interactivity
 
 ### 3/ Integrate
 
