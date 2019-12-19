@@ -25,7 +25,14 @@ This idea is to use different individual axis to map the timeline in proportion 
 ![illustrative images](./SKetch2.jpeg)
 This idea involves various countries using Star Chart in a small multiple way, showing the accumulated testing frequency of three dominant countries.
 
-### 3/ Introduce External Data
+### 3/ Prepare the Testing Data
+> Clean up whatever spreadsheet manipulation you did to the testing data via pivot tables and the like into a csv-friendly format. (Week 7 Assignment, 16 Oct 2019)
+
+I extracted the [frequency data](https://github.com/gitacoco/dvia-2019/blob/master/2.mapping-quantities/project/data/all-frequency.csv) and the [yield data](https://github.com/gitacoco/dvia-2019/blob/master/2.mapping-quantities/project/data/yieldsbyyear.csv) from the spreadsheet.
+
+### 4/ Introduce External Data
+> Find the external data source you’ll be using for your ‘so what’ and ‘compared to what’ variables and convert it to spreadsheet form. (Week 7 Assignment, 16 Oct 2019)
+
 #### External Data: sixty-three years of radiocarbon dioxide measurements at Wellington, New Zealand (1954-2017)
 I chose the Carbon-14 data of New Zealand, which is the world’s longest record. I downloaded the data through [World Data Centre for Greenhouse Gases](https://gaw.kishou.go.jp/search) where you could access the dataset. You could also access the [DATASET](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true) and the [VARIABLE ATTRIBUTES](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=910863073&single=true) for this project through my Google Sheets Spreadsheet Form.  
 
@@ -39,11 +46,12 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 [2] Levin, I.; et al. (1994). ["δ14C record from Vermunt"](https://cdiac.ess-dive.lbl.gov/trends/co2/cent-verm.html). Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center.  
 [3] ["Radiocarbon dating"](http://web.science.uu.nl/AMS/Radiocarbon.htm). University of Utrecht.  
 
-### Sketches
-#### Sketch: the Relationship Between the Testing Frequency and the Atmospheric 􏰈􏰈Carbon-14 Content
+> Bring in three additional pencil sketches that show different options for merging the testing data with your external data source. (Week 7 Assignment, 16 Oct 2019)
+
+#### Sketch 1: the Relationship Between the Testing Frequency and the Atmospheric 􏰈􏰈Carbon-14 Content
 ![illustrative images](./1_MergingDataSketch.jpg)
 
-#### Sketch: the Relationship Between the Estimate of Above-ground Bomb's Explosive Power and the Atmospheric 􏰈􏰈Carbon-14 Content
+#### Sketch 2: the Relationship Between the Estimate of Above-ground Bomb's Explosive Power and the Atmospheric 􏰈􏰈Carbon-14 Content
 ![illustrative images](./2_MergingDataSketch.jpg)
 
 ## Week 8 Assignment （Due Oct 30)
