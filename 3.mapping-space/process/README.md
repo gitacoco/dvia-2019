@@ -50,7 +50,9 @@ In the first view, I extract the data of significant earthquakes above the magni
 ### 5/ Future Work
 #### Add more POI on the Map
 ##### Add Volcanoes
-![illustrative images](./5_future_works_volcanoes.png)
+![illustrative images](./5_future_work_volcanoes.png)
 ##### Add Fault Lines
+![illustrative images](./5_future_works_fault.png)
+
 #### Cross-encoding of the Color
 #### Interactivity of the Charts in the Story Cards
