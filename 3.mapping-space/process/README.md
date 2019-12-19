@@ -43,16 +43,14 @@
 ![illustrative images](./3_integrate_amplify.png)
 
 ### 4/ [Final Presentation](https://github.com/gitacoco/dvia-2019/tree/master/3.mapping-space/final_project)
-功能简介：
-分别使用点（point） 和六边形（polygon）基于相同的底图（basemap）实现地理信息数据的地图展示；
-实现对地理信息数据的统计图表展示，分别选择数据集中相应纬度，实现对“按日期进行频次统计的地震”、“按震级进行频次统计的地震”和“按深度进行频次统计的地震”；
-使用控制面板作为交互控件和统计图表的容器；
-三个统计图表支持框选功能；
-
+#### A Brief Introduction
+When you visit this site at first you will see a storyting view and then you may enter a dashboard view to discover the map freely.
+In the first view, I extract the data of significant earthquakes above the magnitued of 7.0 from USGS to support the story of "the most 4 significant earthquakes in 21st century". And I designed a guidance button to indicate that you could just scroll down to see the next story card. 
 
 ### 5/ Future Work
 #### Add more POI on the Map
 ##### Add Volcanoes
+![illustrative images](./5_future_works_volcanoes.png)
 ##### Add Fault Lines
 #### Cross-encoding of the Color
 #### Interactivity of the Charts in the Story Cards
