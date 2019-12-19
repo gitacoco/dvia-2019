@@ -30,7 +30,7 @@ The Line Clock uses compound logic. The black indicator is a hour hand that is j
 I classify months into four seasons. For example, the months from March to May belongs to spring, from June to August belongs to Summer and so on.
 Twelve loops are used to present twelve months. These loops could be seen as containers. Each current month would be a point contained in the corresponding loop.
 
-#### [Sketch 02: Moon & Day-of-week](https://github.com/gitacoco/dvia-2019/tree/master/1.mapping-time/date2_Moon_Dayofweek)
+#### Sketch 02: Moon & Day-of-week
 ![illustrative images](./Sketch2_calendar_time.jpg)
 ##### Visual Variables Used for Moon: Shape; for Day-of-week: Texture
 
