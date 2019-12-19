@@ -21,10 +21,11 @@
 
 #### 2.1/ First View: Visualize Frequency
 ![illustrative images](./2_prototype_frequency_plane.jpg)
-sourcd: https://github.com/mapschool/course/issues/38#issuecomment-417553952
+source: https://github.com/mapschool/course/issues/38#issuecomment-417553952
 
 #### 2.2/ Second View: Transform Frequency View
 ![illustrative images](./2_prototype_frequency_stack.jpg)
+source: http://www.princeton.edu/~efeibush/earthquakes/
 
 #### 2.3/ Third View: Visualize Depth
 ![illustrative images](./2_prototype_depth.jpg)
