@@ -46,6 +46,8 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 [2] Levin, I.; et al. (1994). ["δ14C record from Vermunt"](https://cdiac.ess-dive.lbl.gov/trends/co2/cent-verm.html). Trends: A Compendium of Data on Global Change. Carbon Dioxide Information Analysis Center.  
 [3] ["Radiocarbon dating"](http://web.science.uu.nl/AMS/Radiocarbon.htm). University of Utrecht.  
 
+### 5/ Merge the External Data and Make hybird Sketches
+
 > Bring in three additional pencil sketches that show different options for merging the testing data with your external data source. (Week 7 Assignment, 16 Oct 2019)
 
 #### Sketch 1: the Relationship Between the Testing Frequency and the Atmospheric 􏰈􏰈Carbon-14 Content
@@ -54,8 +56,8 @@ Vince, G. (2014, June 4). Race to read the H-bomb timestamp that marks all cells
 #### Sketch 2: the Relationship Between the Estimate of Above-ground Bomb's Explosive Power and the Atmospheric 􏰈􏰈Carbon-14 Content
 ![illustrative images](./2_MergingDataSketch.jpg)
 
-## Week 8 Assignment （Due Oct 30)
-An updated version based on the sketch of last week.
+### 6/ Code-based Exploration
+To support a better comparison between two diagrams, I made an updated version based on the sketch of last week. I took apart them into two charts with the *sharing time axis*.
 ![illustrative images](./bombcurve_update.jpg)
 
 ## Week 9 Assignment （Due Nov 6)
