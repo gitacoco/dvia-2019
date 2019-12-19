@@ -51,7 +51,7 @@ When you visit this site at first you will see a storyting view and then you may
 ![illustrative images](./4_final_presentation_landingpage.png)
 In the first view, I extract the data of significant earthquakes above the magnitued of 7.0 from USGS to support the story of "the most 4 significant earthquakes in 21st century". And I designed a guidance button to indicate that you could just scroll down to see the next story card. 
 ![illustrative images](./4_final_presentation_storycard.png)
-Each card has a corresponding map view (latitude, longitude and zoom level), meaning that when you switch to a certain card, the map view will seamlessly (Actually, the rendering speed of Leaflet is much much lower than Mapbox, so it's not perfectly seamless.) and automatically transform to the exact earthquake occurrence location which you may look into. And a radar chart has been put in each card, which indicates the relationship among 
+Each card has a corresponding map view (latitude, longitude and zoom level), meaning that when you switch to a certain card, the map view will seamlessly (Actually, the rendering speed of Leaflet is much much lower than Mapbox, so it's not perfectly seamless.) and automatically transform to the exact earthquake occurrence location which you may look into. And a radar chart has been put in each card, which indicates the relationship among magnitude, depth and the death toll. It's easily to think that an earthquake with a bigger maginitude has a worse consequence, however, this is not always the case. For example, the 311 earthquake happened in Japan (the second card) has a remarkable magnitude, but the people it killed are not as much as other same-level earthquakes. 
 
 ### 5/ Future Work
 #### 5.1/ Add more POI on the Map
