@@ -25,8 +25,8 @@ This idea is to use different individual axis to map the timeline in proportion 
 ![illustrative images](./SKetch2.jpeg)
 This idea involves various countries using Star Chart in a small multiple way, showing the accumulated testing frequency of three dominant countries.
 
-## Week 7 Assignment （Due Oct 23)
-### External Data: sixty-three years of radiocarbon dioxide measurements at Wellington, New Zealand (1954-2017)
+### 3/ Introduce External Data
+#### External Data: sixty-three years of radiocarbon dioxide measurements at Wellington, New Zealand (1954-2017)
 I chose the Carbon-14 data of New Zealand, which is the world’s longest record. I downloaded the data through [World Data Centre for Greenhouse Gases](https://gaw.kishou.go.jp/search) where you could access the dataset. You could also access the [DATASET](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=574694187&single=true) and the [VARIABLE ATTRIBUTES](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9YwmsYN-sKPuY03hTzqzvdE6TbmHnMo1rUF8z_-T27T_EepPJryzY4S8iEmzLswMhXLGiqJG6Qy_k/pubhtml?gid=910863073&single=true) for this project through my Google Sheets Spreadsheet Form.  
 
 > "Carbon-14 is produced naturally in the atmosphere by a chemical reaction triggered by cosmic rays. Nuclear weapon testing in the 1950s and early 1960s led to a rapid rise in atmospheric levels."  
