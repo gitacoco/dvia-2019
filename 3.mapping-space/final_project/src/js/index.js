@@ -19,7 +19,7 @@ const L = window.L
 
 let map = null
 let fullpageInst = null
-let scaleRange = [0, 80]
+let scaleRange = [20, 80]
 
 const launchMap = (() => {
   let pointLayer = null
@@ -247,7 +247,7 @@ const listen = () => {
     $('.J_inner_container').removeClass('f-fixed')
     $('.J_control').removeClass('f-hide f-deephide')
     getPlaneDataset().then(dataset => {
-      scaleRange = [0, 16]
+      scaleRange = [1, 16]
       launchMap(dataset)
       launchGraph(dataset)
       map.flyTo(window.config.initLatlng, window.config.initZoom)
