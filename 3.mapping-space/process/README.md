@@ -25,7 +25,7 @@ As for magnitude and frequency data, what I want to do is to use a same basemap 
 
 > Explore the selected direction and prototype the different component views that will make up your final visualization with a clear idea of how they will interact with one another. (Week 11 Assignment, 13 Nov 2019)
 
-Following my idea and plan, I collected many similar cases and synthesized my prototype.
+Following my idea and plan, I collected many similar cases and synthesized my prototypes.
 
 ### 2.1/ First View: Visualize Frequency
 ![illustrative images](./2_prototype_frequency_plane.jpg)
