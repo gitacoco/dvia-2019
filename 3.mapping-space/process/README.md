@@ -7,9 +7,9 @@
 ### 1.1/ Visualize Depth
 ![illustrative images](./1_diagrammatic_depth.jpg)
 #### Why this way?
-I think it is not intuitive enough to map “depth” though the size, color of points or the height of bars on the map. The color may be suitble for visualizing a few categories of depth. But if we want to see the exact points or the overall pattern, trend and concentration, using aggregate method to only show categories or ranges will eliminate details of the data. Therefore, a three-dimensional map displaying the points at different depth would be a wiser choice. 
+I think it is not intuitive enough to map “depth” through size, color of points or the height of bars on the map. The color may be suitble for visualizing a few categories of depth. But if we want to see the exact points or the overall pattern, trend and concentration, using aggregate method to only show categories or ranges will eliminate details of the data. Therefore, a three-dimensional map displaying the points at different levels of depth would be a wiser choice. 
 #### What's the idea?
-The initial idea of this diagram is to show depth information in a two-dimensional way but would reach a similar effect (maybe) as a three-dimensional map. The X axis stands for the longitude coordinate, ranging from −180° to +180° from left to right. The Y axis represents the height range with natural directions: the part above the X axis means above sea level and the below part means below the sea level. Points in this diagram are projected from various latitudes, so latitude information would be eliminated, which is the limitation of this idea, and the reason why Prof. Swinehart thinks this makes no sense.
+The initial idea of this diagram is to show depth information in a two-dimensional way but is still able to reach a similar effect (maybe) as a three-dimensional map. The X axis stands for the longitude coordinate, ranging from −180° to +180° from left to right. The Y axis represents the height range with natural directions: the part above the X axis means above sea level and the below part means below the sea level. Points in this diagram are projected from various latitudes, so latitude information would be eliminated, which is the limitation of this idea, and the reason why Prof. Swinehart thought that this made no sense.
 
 > On the mapping side of things, figure out what kinds of markers you’ll be adding. (Week 10 Assignment, 6 Nov 2019)
 
@@ -19,18 +19,22 @@ The initial idea of this diagram is to show depth information in a two-dimension
 ### 1.3/ Visualize Frequency
 ![illustrative images](./1_markers_frequency.jpg)
 
-As for magnitude and frequency data, what I want to do is to use a same basemap to display the data in both two-dimensional and three-dimensional ways, and creat seamless transformations to connect different views. Specifically, I plan to use size and/or hue of points to map magnitude data, and use hexagon bars to map frequency data.
+As for magnitude and frequency data, what I want to do is to use a same basemap to display the data in both two-dimensional and three-dimensional ways, and creat seamless transformations to connect different views. Specifically, I plan to use size and/or hue of points to map magnitude data, and to use hexagon bars to map frequency data.
 
 ## 2/ Case Study and Prototype
 
 > Explore the selected direction and prototype the different component views that will make up your final visualization with a clear idea of how they will interact with one another. (Week 11 Assignment, 13 Nov 2019)
 
-Following my idea and plan, I collected many similar cases and synthesized the dashboard prototype. There are three views which respectively represents the two-dimensional earthquake frequency, the three-dimensional earthquake frequency and the earth assembled by earthquakes at different depth levels.
+Following my idea and plan, I collected many similar cases and synthesized the dashboard prototype. There are three views which respectively represents the two-dimensional earthquake frequency, the three-dimensional earthquake frequency and the earth assembled by earthquake points at different depth levels.
 
 ### 2.1/ the Logic of My Diagram Designs
 The diagram components are all lying in a container: a control panel which is at the bottom of the screen.
 
-The first diagram is a time range selector that supports the frequency statistics display and simultaneously allows a user to selet a range of time, a length of granularity.
+The first diagram is a time range selector that supports the frequency statistics display and simultaneously allows a user to selet 'a range of time', which controls how many points would be displayed on the map and 'a length of granularity', which controls how long a point will stay displaying from its actual occurred time when a user play the animation.
+
+The second and third one respectively display the magnitude and depth information through bar chat. These two diagrams have been armed with a "frame selection" function, meaning that a user may select certain classfied data ranges by dragging a frame area to cover them.
+
+The interactivity not only exists between map and diagrams, but also among diagrams themselves. If a user does some manipulation towards one of the three diagrams, changes would also be displayed in the other two ones. 
 
 
 ### 2.2/ First View: Visualize Frequency
