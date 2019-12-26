@@ -19,7 +19,7 @@ The initial idea of this diagram is to show depth information in a two-dimension
 ### 1.3/ Visualize Frequency
 ![illustrative images](./1_markers_frequency.jpg)
 
-As for magnitude and frequency data, what I want to do is to use a same basemap to display the data in both two-dimensional and three-dimensional ways, and creat seamless transformations to connect different views. Specifically, I plan to use size and/or hue of points to map magnitude data, and to use hexagon bars to map frequency data.
+For magnitude and frequency data, what I want to do is to use a same basemap to display the data in both two-dimensional and three-dimensional ways, and creat seamless transformations to connect different views. Specifically, I plan to use size and/or hue of points to map magnitude data, and to use hexagon bars to map frequency data.
 
 ## 2/ Case Study and Prototype
 
@@ -34,7 +34,7 @@ The first diagram is a time range selector that supports the frequency statistic
 
 The second and third one respectively display the magnitude and depth information through bar chat. These two diagrams have been armed with a "frame selection" function, meaning that a user may select certain classfied data ranges by dragging a frame area to cover them.
 
-The interactivity not only exists between map and diagrams, but also among diagrams themselves. If a user does some manipulation towards one of the three diagrams, changes would also be displayed in the other two ones. 
+The interactivity not only connects the map and diagrams, but also connects diagrams themselves, meaning if a user does some manipulation towards one of the three diagrams, changes would also be displayed in the other two ones. 
 
 
 ### 2.2/ First View: Visualize Frequency
@@ -58,9 +58,15 @@ source: https://glowy-earthquakes.glitch.me/?adumkts=social&aduc=social&adum=ext
 
 ### 3.1/ Simplify Features
 ![illustrative images](./3_integrate_simplify.png)
+After discussing with Prof. Swinehart, I find it necessary to simplify or even eliminate some functions, considering the time limitation and the project goals in the syllabus. Here are the feature updates:
+- Simplify the function of time selector: use fixed time range (one month), delete Play Function and its sub-function "Granularity Selector".
+- Only implement the first two views, abandon the plan of planet view, whcih needs to use WebGL to develop.
+- Given that one of the teaching goals is to use Leaflet.js, so it would be better to switch the map provider from Mapbox to Leaflet. 
+
 
 ### 3.2/ Amplify Storytelling
 ![illustrative images](./3_integrate_amplify.png)
+Regarding the qualification as a final project, Prof. Swinehart provided some suggestions. He said that it would be better if combine the earthquake data with the data in other fields.
 
 ## 4/ [Final Presentation](https://github.com/gitacoco/dvia-2019/tree/master/3.mapping-space/final_project)
 ### A Brief Introduction
